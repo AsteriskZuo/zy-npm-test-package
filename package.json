@@ -1,6 +1,6 @@
 {
   "name": "@asteriskzuo/react-native-zy-npm-test-package",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "test for create package",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
